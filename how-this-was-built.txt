@@ -1,0 +1,10 @@
+This was built from this commit of wattdave/amazon-ecs-agent
+
+https://github.com/wattdave/amazon-ecs-agent/commit/39d193421d52eb24cccbefb4b457ea824913c88f
+
+go build -o amazon-ecs-agent.exe ./agent
+D:\dev\amazon-ecs-agent>go version
+go version go1.11 windows/amd64
+
+
+
